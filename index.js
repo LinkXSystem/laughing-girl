@@ -1,7 +1,7 @@
-const girl = name => {
+const girl = (name = 'yinni') => {
   console.log('=================================================');
   console.log(`${name}, a girl who is loves to laugh !`);
   console.log('=================================================');
 };
 
-module.export = girl;
+module.exports = girl;
