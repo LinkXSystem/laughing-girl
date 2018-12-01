@@ -1,0 +1,13 @@
+{
+  "name": "laughing-girl",
+  "version": "0.0.1",
+  "description": "a gril who is loves to laugh",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "npm",
+    "model"
+  ],
+  "author": "zhi",
+  "license": "MIT"
+}
